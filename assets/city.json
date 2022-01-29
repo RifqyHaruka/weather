@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1650357,
+        "name": "Bandung",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 107.618607,
+            "lat": -6.90389
+        }
+    },
+
+ 
+      {
+        "id": 1648473,
+        "name": "Bogor",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 106.789169,
+            "lat": -6.59444
+        }
+    },
+      {
+        "id": 1648469,
+        "name": "Bogorejo",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 111.5186,
+            "lat": -6.9404
+        }
+    },
+      {
+        "id": 1648568,
+        "name": "Blora",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 111.418602,
+            "lat": -6.9698
+        }
+    },
+    {
+        "id": 1649150,
+        "name": "Bengkulu",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 102.265541,
+            "lat": -3.80044
+        }
+    },
+     
+    {
+        "id": 1649593,
+        "name": "Baturaja",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 104.166672,
+            "lat": -4.13333
+        }
+    },
+    {
+        "id": 1649595,
+        "name": "Baturaden",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 109.216667,
+            "lat": -7.3
+        }
+    },
+    {
+        "id": 1649683,
+        "name": "Batulawang",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 107.1502,
+            "lat": -7.3672
+        }
+    },
+    {
+        "id": 1649740,
+        "name": "Batudulang",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 117.280899,
+            "lat": -8.5873
+        }
+    },
+    {
+        "id": 1649776,
+        "name": "Batubantar",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 106.044403,
+            "lat": -6.3501
+        }
+    },
+
+    {
+        "id": 1649867,
+        "name": "Batursari",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 111.2295,
+            "lat": -6.7094
+        }
+    },
+     {
+        "id": 1650095,
+        "name": "Banyumas",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 109.294167,
+            "lat": -7.51417
+        }
+    },
+      {
+        "id": 1650527,
+        "name": "Balikpapan",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 116.828873,
+            "lat": -1.26753
+        }
+    },
+      {
+        "id": 7034818,
+        "name": "Purwodadi",
+        "state": "",
+        "country": "ID",
+        "coord": {
+            "lon": 112.078003,
+            "lat": -8.156
+        }
+    }
+
+
+
+]
